@@ -8,7 +8,7 @@ The Files:
 
 This repository is in reference to the image processing module developed in April 2018for the Smart City course project for Theory of Sensors and Actuators. A overhead camera module setup was developed for the purpose of localizing the positions of the buildings and the vehicles on the smart city.
 
-# 1. calibration.py**
+## 1. calibration.py
 
 This code first initilizes the position of nodes (positions of buildings) on the smart city through the detection of Aruco markers and returns the centroid positions of the suitably placed markers to the main function.
   
