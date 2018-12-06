@@ -12,6 +12,6 @@ This repository is in reference to the image processing module developed in Apri
 
 This code first initilizes the position of nodes (positions of buildings) on the smart city through the detection of Aruco markers and returns the centroid positions of the suitably placed markers to the main function.
   
-## path_planning.py
+## path_detection.py
 
 This code aims to *localize* the Autonomous Ground Vehicles (AGVs) which have Aruco markers of size 7x7 cm placed on them with respect to the nodes. All the localizations of nodes and the AGVs are with respect to the image frame, i.e., in terms of pixel values. The position of all the AGVs are returned to the main function.
